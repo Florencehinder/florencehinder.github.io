@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: email tweets
+description: email in your tweets without having to sign into the app
 img:
-importance: 3
+importance: 2
 category: fun
 ---
 
