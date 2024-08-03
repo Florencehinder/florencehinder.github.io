@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The Practical Optimist in search for how to make the world better with one idea at a time. 
+subtitle: 
 
 profile:
   align: left
@@ -19,12 +19,15 @@ social:  # includes social icons at the bottom of the page
 latest_posts: false
 ---
 
-Hello, it’s me, Flo! I am an eternal optimist working to make the world a better place.
+Hello, it’s me, Flo! I am a practical optimist and serial entrepreneur working to make the world a better place one project at a time.
 
-Starting with learning how to learn most effectively because I think the world could do with some more wisdom.
+My 10x skill is relentless pursuit of a thing when I see the path from A to B. I can visualise shapes in my head
 
-I’ve been an engineer, agile coach, and entrepreneur. I love when people challenge my thinking and encourage me to be better.
+I love when people challenge my thinking and encourage me to be better. Since I was young I loved creating things, art, bridges & houses out of popsicle sticks or my side hustles at school. 
 
-I am originally from Aotearoa, New Zealand, but I’ve also spent time living in the UK, France, and Madagascar (okay, only 6 weeks), but it was still formative!
+I've never been much of a writer but I like how it makes me think clearly and improve my communication and communication is a fundamental skill. 
 
-I think people are good by default - unless I am proven otherwise.
+I love building businesses because I see the exchange of money as a marker of value creation. There are some exceptions to this but in the most part this holds true. I enjoy creating value from 0 to 1. 
+
+I am originally from Aotearoa, New Zealand, but I’ve also spent time living in the UK, France, and Madagascar (okay, only 6 weeks), but it was still formative and my heart lives in SF.
+
